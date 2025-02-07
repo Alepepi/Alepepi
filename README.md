@@ -1,6 +1,18 @@
 # 💫 About Me:
-🚀 About Me<br><br>👋 ¡Hola! Soy un desarrollador web con 1 año de experiencia, apasionado por aprender y adaptarme a nuevas tecnologías y metodologías de desarrollo. Mi enfoque se centra en Next.js, React y Tailwind CSS, pero siempre estoy explorando nuevas herramientas y frameworks.<br><br>💡 Me interesa el desarrollo full-stack, la optimización de procesos, la automatización y la mejora continua de la experiencia de usuario. También tengo experiencia trabajando con Odoo, MongoDB, TypeScript y Python, además de herramientas como Builder.io.<br><br>🌍 Actualmente estoy estudiando en Napoli, Italia, mientras sigo perfeccionando mis habilidades en iOS development con SwiftUI, gestión del tiempo y organización personal.<br><br>📌 Algunas cosas en las que estoy trabajando:<br>• 🚀 Desarrollo de aplicaciones web escalables<br>• 📱 Creación de una app en SwiftUI con enfoque en bienestar<br>• 💻 Creación de una plataforma para la organización de tareas, hábitos y metas personales<br>• 🌱 Explorando la integración de IA y automatización en mis proyectos<br><br>📚 En mi tiempo libre, me gusta aprender nuevos idiomas (actualmente italiano, inglés, alemán, japonés, francés, árabe y ruso), explorar metodologías de productividad y descubrir nuevas recetas de cocina.
 
+👋 Hello! I'm a web developer with 1 year of experience, passionate about learning and adapting to new technologies and development methodologies. My focus is on Next.js, React, and Tailwind CSS, but I'm always exploring new tools and frameworks.  
+
+💡 I'm interested in full-stack development, process optimization, automation, and continuously improving the user experience. I also have experience working with Odoo, MongoDB, TypeScript, and Python, as well as tools like Builder.io.  
+
+🌍 Currently, I'm studying in Naples, Italy, while continuing to refine my skills in iOS development with SwiftUI, time management, and personal organization.  
+
+📌 Some things I'm working on:  
+• 🚀 Development of scalable web applications  
+• 📱 Creating a wellness-focused app in SwiftUI  
+• 💻 Building a platform for task, habit, and goal organization  
+• 🌱 Exploring AI and automation integration into my projects  
+
+📚 In my free time, I enjoy learning new languages (currently Italian, English, German, Japanese, French, Arabic, and Russian), exploring productivity methodologies, and discovering new recipes to cook.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alejandroollivier) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alejandro.ollivierochoa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aleolliviero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandroollivierochoa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21708809) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Alepepi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aleollivierochoa@gmail.com) 
